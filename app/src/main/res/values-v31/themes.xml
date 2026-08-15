@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 
+<resources>
+
+    <style
+        name="Theme.UltraTools.Starting"
+        parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">@color/ultra_splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_ultratools_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.UltraTools</item>
+
+    </style>
+
+</resources>
