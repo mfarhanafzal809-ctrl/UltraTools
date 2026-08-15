@@ -1,1 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 
+<resources>
+
+    <color name="ultra_splash_background">#090B10</color>
+    <color name="ultra_splash_foreground">#6E8CFF</color>
+
+</resources>
