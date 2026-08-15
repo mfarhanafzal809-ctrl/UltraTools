@@ -1,1 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 
+<resources>
+
+    <string name="app_name">UltraTools</string>
+
+    <string name="app_description">
+        Powerful everyday tools in one fast and private Android app.
+    </string>
+
+</resources>
